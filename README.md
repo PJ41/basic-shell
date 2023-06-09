@@ -19,5 +19,5 @@ Deletes generated object files and the executable
 ```
 make clean
 ```
-### Helpful Readings
+### Relevant Readings
 - Chapter 5: Process API - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
